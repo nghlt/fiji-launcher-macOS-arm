@@ -2,6 +2,8 @@
 
 This guide provides step-by-step instructions for running Fiji on Apple Silicon as a native process.
 
+![screenshot](https://github.com/nghlt/fiji-launcher-macOS-arm/blob/344c767126733ee118aef403cab8722c29a8b91b/fiji-arm.png)
+
 ## Requirements
 - Fiji (latest): [Click here to download](https://downloads.imagej.net/fiji/latest/fiji-macosx.zip)
 - Fiji ARM: [Click here to download](https://downloads.imagej.net/fiji/archive/<redacted>/fiji-macosx-arm64.zip)
