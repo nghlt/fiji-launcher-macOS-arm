@@ -17,4 +17,4 @@ This guide provides step-by-step instructions for running Fiji on Apple Silicon 
 
 ## Credit
 - Original repository: [evanheller/fiji-launcher-macOS-arm](https://github.com/evanheller/fiji-launcher-macOS-arm)
-- Universal binary launcher: [Universal (x86/arm64) launcher for Mac OS]([https://github.com/imagej/imagej-launcher](https://github.com/imagej/imagej-launcher/issues/82)https://github.com/imagej/imagej-launcher/issues/82)
+- Universal binary launcher: [Universal (x86/arm64) launcher for Mac OS](https://github.com/imagej/imagej-launcher/issues/82)
